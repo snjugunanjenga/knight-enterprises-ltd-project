@@ -2,9 +2,8 @@
 
 node_modules/
 dist/
-coverage/
 
 pnpm-lock.yaml
-pnpm-workspace.yaml
 yarn.lock
 package-lock.json
+
